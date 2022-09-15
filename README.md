@@ -1,6 +1,6 @@
 ## About
 
-This is a Github repo that uses the techniques described in [this detailed tutorial](https://reeni.me/nestjs-caching-redis) on caching in NestJS with Redis.
+This is a Github repo that uses the techniques described in [this detailed tutorial](https://reeni.me/blogs/Redis---The-best-solution-for-caching-data-in-server-f40aea33cbd349a19dd17798f30e1682) on caching in NestJS with Redis.
 
 ## Set up locally
 
